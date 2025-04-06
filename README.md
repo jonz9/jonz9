@@ -15,8 +15,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
 </p>
-
-## About me
-- I'm a Computer Engineering student at the University of Waterloo
-- I've built firmware and full-stack web-applications
-- Always looking to learn more about whatever interests me: currently looking into ML and Computer Vision Processing
