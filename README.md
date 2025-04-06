@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm John</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Computer+Engineer;UI/UX+Designer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Computer+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
