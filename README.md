@@ -1,6 +1,7 @@
 <h1 align="center">Hello There</h1>
 
 <p align="center">
+ <p>Been building in: </p>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B2E2B2&center=true&vCenter=true&random=false&width=435&lines=AI/ML;Autonomy;Full+Stack;Anything+Else+That's+Interesting" alt="Typing SVG" /></a>
 </p>
 
